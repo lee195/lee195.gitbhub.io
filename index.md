@@ -4,7 +4,7 @@ Feel free to visit [my Github profile page](https://github.com/lee195/) or [my C
 I'm a graduate of TU Darmstadt and currently looking for job opportunities. I'm always open to new technologies and learning. At the moment I'm getting to know Golang and Python's Django.
 
 ## Contact:    
-  e-mail: [jisu_lee@hotmail.de](jisu_lee@hotmail.de)   
+  e-mail: [jisu_lee@hotmail.de](mailto:jisu_lee@hotmail.de)   
   LinkedIn: [Jisu Lee LinkedIn](https://www.linkedin.com/in/jisu-lee-599a29182/)
 
 ## My CV:
