@@ -3,7 +3,7 @@
 Feel free to visit [my Github profile page](https://github.com/lee195/) or [my Codewars profile](https://www.codewars.com/users/lee195).   
 I'm a graduate of TU Darmstadt and currently looking for job opportunities. I'm always open to new technologies and learning. At the moment I'm getting to know Golang and Python's Django.
 
-Contact: 
+Contact:    
   e-mail: jisu_lee@hotmail.de   
   LinkedIn: [Jisu Lee LinkedIn](https://www.linkedin.com/in/jisu-lee-599a29182/)
 
