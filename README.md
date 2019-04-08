@@ -1,3 +1,7 @@
+Repo for mz personal webpage/CV page.
+
+Below is the auto-generated readme because... reasons
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lee195/lee195.gitbhub.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
