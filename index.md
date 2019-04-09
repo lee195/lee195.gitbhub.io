@@ -26,14 +26,14 @@ Programming languages: Python, Scala, Golang(, C++, Java)
 
 # University:
 - Graduated TU Darmstadt in March 2019 (Thesis title: Effects of Ordering Heuristics on the Source DPOR Algorithm)   
-Still waiting for 2 marks to be entered by profs/student office and Bachelor certificate to be printed.
+Still waiting for 2 marks to be entered by profs/student office and my Bachelor certificate to be printed.
 
 # School:
 - Abitur at Gymnasium am Kurfürstlichen Schloss Mainz
 
 # Hobbies (aside from coding):
 - Cooking (mostly italian and a little bit of korean)
-- Chess (mostly on the puzzle side of things)
+- Chess (mostly puzzles)
 
 # About me:
 I'm 25 years old and I like Python.   
