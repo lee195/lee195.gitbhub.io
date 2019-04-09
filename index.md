@@ -36,6 +36,7 @@ Still waiting for 2 marks to be entered by profs/student office and Bachelor cer
 - Chess (mostly on the puzzle side of things)
 
 # About me:
+I'm 25 years old and I like Python.   
 I try to continuously teach myself new technologies and languages. At the moment I'm getting to know Golang and Python's Django.   
 Most of my experience so far has been on the backend side of things which is why I'm currently teaching myself to use Django and the necessary bits of HTML, JS and CSS (mainly following [Corey Schafer's tutorial](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)).   
 Golang is a language I started looking into because of a friend's recommendation. It seems pretty low level when transitioning from using mostly Python. I'm starting to see advantages particularly when comparing Golang to C++ or Java though.   
