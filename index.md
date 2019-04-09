@@ -1,14 +1,12 @@
 # Welcome to my Webpage
 
-Hi, I'm a graduate of TU Darmstadt(B.Sc.) and currently looking for job opportunities. I try to continuously teach myself new technologies and languages. At the moment I'm getting to know Golang and Python's Django.   
-Most of my experience so far has been on the backend side of things which is why I'm currently teaching myself to use Django and the necessary bits of HTML, JS and CSS (mainly following [Corey Schafer's tutorial](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)).
-Golang is a language I started looking into because of a friend's recommendation. It seems pretty low level when transitioning from using mostly Python. I'm starting to see advantages particularly when comparing Golang to C++ or Java though.
+Hi, I'm a graduate of TU Darmstadt(B.Sc.) and currently looking for job opportunities.   
 
 ## Contact:    
   e-mail: [jisu_lee@hotmail.de](mailto:jisu_lee@hotmail.de)   
   LinkedIn: [Jisu Lee LinkedIn](https://www.linkedin.com/in/jisu-lee-599a29182/)   
   
-Feel free to visit my [Github profile page](https://github.com/lee195/) or my [Codewars profile](https://www.codewars.com/users/lee195) to get a look at some of the code I wrote.   
+Feel free to visit my [Github profile page](https://github.com/lee195/) or my [Codewars profile](https://www.codewars.com/users/lee195) to get a look at some of the code I write.   
 
 ## My CV:
 
@@ -36,3 +34,9 @@ Still waiting for 2 marks to be entered by profs/student office and Bachelor cer
 # Hobbies (aside from coding):
 - Cooking (mostly italian and a little bit of korean)
 - Chess (mostly on the puzzle side of things)
+
+# About me:
+I try to continuously teach myself new technologies and languages. At the moment I'm getting to know Golang and Python's Django.   
+Most of my experience so far has been on the backend side of things which is why I'm currently teaching myself to use Django and the necessary bits of HTML, JS and CSS (mainly following [Corey Schafer's tutorial](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)).   
+Golang is a language I started looking into because of a friend's recommendation. It seems pretty low level when transitioning from using mostly Python. I'm starting to see advantages particularly when comparing Golang to C++ or Java though.   
+Having implemented mostly coding problems and projects based on scientific papers I'm looking for improving my practical knowledge to a level that will allow me to contribute.
