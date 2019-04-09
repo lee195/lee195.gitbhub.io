@@ -1,6 +1,6 @@
 # Welcome to my Webpage
 
-Hi, I'm a graduate of TU Darmstadt(B.Sc.) and currently looking for job opportunities.   
+I'm a graduate of TU Darmstadt(B.Sc.) and currently looking for job opportunities.   
 
 ## Contact:    
   e-mail: [jisu_lee@hotmail.de](mailto:jisu_lee@hotmail.de)   
