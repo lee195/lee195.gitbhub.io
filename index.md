@@ -1,15 +1,18 @@
-# Welcome to Jisu Lee's Webpage
+# Welcome to my Webpage
 
-Feel free to visit [my Github profile page](https://github.com/lee195/) or [my Codewars profile](https://www.codewars.com/users/lee195).   
-I'm a graduate of TU Darmstadt and currently looking for job opportunities. I'm always open to new technologies and learning. At the moment I'm getting to know Golang and Python's Django.
+Hi, I'm a graduate of TU Darmstadt(B.Sc.) and currently looking for job opportunities. I try to continuously teach myself new technologies and languages. At the moment I'm getting to know Golang and Python's Django.   
+Most of my experience so far has been on the backend side of things which is why I'm currently teaching myself to use Django and the necessary bits of HTML, JS and CSS (mainly following [Corey Schafer's tutorial](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)).
+Golang is a language I started looking into because of a friend's recommendation. It seems pretty low level when transitioning from using mostly Python. I'm starting to see advantages particularly when comparing Golang to C++ or Java though.
 
 ## Contact:    
   e-mail: [jisu_lee@hotmail.de](mailto:jisu_lee@hotmail.de)   
-  LinkedIn: [Jisu Lee LinkedIn](https://www.linkedin.com/in/jisu-lee-599a29182/)
+  LinkedIn: [Jisu Lee LinkedIn](https://www.linkedin.com/in/jisu-lee-599a29182/)   
+  
+Feel free to visit my [Github profile page](https://github.com/lee195/) or my [Codewars profile](https://www.codewars.com/users/lee195) to get a look at some of the code I wrote.   
 
 ## My CV:
 
-(Preferred) Programming languages: Python, Scala, Golang(, C++, Java)   
+Programming languages: Python, Scala, Golang(, C++, Java)   
 
 # Practical experiences:
 - University project: Event correlation system/library based on [CARTESIUS](http://www.st.informatik.tu-darmstadt.de/artifacts/corrl/cartesius_preprint.pdf) using Scala and [Scala Effekt](https://github.com/b-studios/scala-effekt)   
