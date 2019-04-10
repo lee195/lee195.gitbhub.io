@@ -21,7 +21,7 @@ Programming languages: Python, Scala, Golang(, C++, Java)
   2. Configuration of a LAMP server backend including Python and Bash scripts for automatically generating PHP/HTML webpages for product information in the MySQL database (unpublished due to employer priorities)
 - Thesis implementation: [Source DPOR](http://user.it.uu.se/~parosh/publications/papers/popl2014.pdf) algorithm, 7 ordering heuristics from previous research, 5 benchmark programs specifically designed for the thesis, 6 benchmark programs from previous research, in total 504 combinations of heuristics and program variations written in C++, Bison, flex, Boost
 
-- Bachelor project: Task-generator(CTL, SAT, Kripke Structures) for a web-based teaching app using Java, XML
+- Bachelor project: Task-generator (CTL, SAT, Kripke Structures) for a web-based teaching app using Java, XML
 
 - SK Hynix: Order processing (2 months full-time in the transitional phase from school graduation to university)
 
