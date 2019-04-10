@@ -26,8 +26,8 @@ Programming languages: Python, Scala, Golang(, C++, Java)
 - SK Hynix: Order processing (2 months full-time in the transitional phase from school graduation to university)
 
 # University:
-- Graduated TU Darmstadt in March 2019 (Thesis title: Effects of Ordering Heuristics on the Source DPOR Algorithm)   
-Still waiting for 2 marks to be entered by profs/student office and my Bachelor certificate to be printed.
+- Graduated TU Darmstadt in March 2019, Thesis title: Effects of Ordering Heuristics on the Source DPOR Algorithm   
+(Still waiting for the student office to print my certificate)
 
 # School:
 - Abitur at Gymnasium am Kurfürstlichen Schloss Mainz
