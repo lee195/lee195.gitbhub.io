@@ -1,6 +1,6 @@
 # Welcome to my CV-page
 
-I'm a graduate of TU Darmstadt (B.Sc.) and currently looking for job opportunities.   
+I'm Jisu Lee, a graduate of TU Darmstadt (B.Sc.) and currently looking for job opportunities.   
 <img src="./bewerbungsfoto_casual500.jpg" width="25%">
 
 ## Contact:    
