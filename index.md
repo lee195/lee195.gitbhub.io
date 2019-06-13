@@ -7,7 +7,7 @@ I'm Jisu Lee, a graduate of TU Darmstadt (B.Sc.) and currently looking for job o
   e-mail: [jisu_lee@hotmail.de](mailto:jisu_lee@hotmail.de)   
   LinkedIn: [Jisu Lee LinkedIn](https://www.linkedin.com/in/jisu-lee-599a29182/)   
   
-Feel free to visit my [Github profile page](https://github.com/lee195/) or my [Codewars profile](https://www.codewars.com/users/lee195) to get a look at some of the code I write.   
+Feel free to visit my [Github profile page](https://github.com/lee195/), my [Codewars profile](https://www.codewars.com/users/lee195) or my [LeetCode profile](https://leetcode.com/lee195/) to get a look at some of the code I write.   
 
 ## My CV:
 
