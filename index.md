@@ -1,7 +1,7 @@
 # Welcome to my CV-page
 
 I'm Jisu Lee, a graduate of TU Darmstadt (B.Sc.) and currently looking for job opportunities.   
-<img src="./bewerbungsfoto_casual500.jpg" width="25%">
+<img src="./bewerbungsfoto_semi.jpg" width="25%">
 
 ## Contact:    
   e-mail: [jisu_lee@hotmail.de](mailto:jisu_lee@hotmail.de)   
