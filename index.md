@@ -1,6 +1,6 @@
 # Welcome to my CV-page
 
-I'm Jisu Lee, a graduate of TU Darmstadt (B.Sc.) and currently looking for job opportunities.   
+I'm Jisu Lee, a graduate of TU Darmstadt (B.Sc.) and currently looking for a job.  
 
 ## Contact:    
   e-mail: [jisu_lee@hotmail.de](mailto:jisu_lee@hotmail.de)   
@@ -13,6 +13,8 @@ Feel free to visit my [Github profile page](https://github.com/lee195/), my [Cod
 Programming languages: Python, Scala, Golang, C++, Java  
 
 # Practical experiences:
+- Hobby project: [FOOD](https://github.com/lee195/FOOD) Blockchain based Fair Object Ordering in Distributed systems. 
+
 - University project: Event correlation system/library based on [CARTESIUS](http://www.st.informatik.tu-darmstadt.de/artifacts/corrl/cartesius_preprint.pdf) using Scala and [Scala Effekt](https://github.com/b-studios/scala-effekt)
 
 - Student Assistant - TU Darmstadt Mechanical Engineering:
@@ -23,22 +25,14 @@ Programming languages: Python, Scala, Golang, C++, Java
 
 - Bachelor project: Task-generator (CTL, SAT, Kripke Structures) for a web-based teaching app using Java, XML
 
-- SK Hynix: Order processing (2 months full-time in the transitional phase from school graduation to university)
-
 # University:
 - Graduated TU Darmstadt in March 2019, Thesis title: Effects of Ordering Heuristics on the Source DPOR Algorithm   
-(Still waiting for the student office to print my certificate)
-
-# School:
-- Abitur at Gymnasium am Kurfürstlichen Schloss Mainz
 
 # Hobbies (aside from coding):
-- Cooking (mostly italian and a little bit of korean)
-- Chess (mostly puzzles)
+- Cooking
+- Chess
+- Singing
 
 # About me:
-I'm 25 years old and I like Python.   
-I try to continuously teach myself new technologies and languages. At the moment I'm getting to know Golang and Python's Django.   
-Most of my experience so far has been on the backend side of things which is why I'm currently teaching myself to use Django and the necessary bits of HTML, JS and CSS (mainly following [Corey Schafer's tutorial](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)).   
-Golang is a language I started looking into because of a friend's recommendation. It seems pretty low level when transitioning from using mostly Python. I'm starting to see advantages particularly when comparing Golang to C++ or Java though.   
-Having implemented mostly coding problems and projects based on scientific papers I'm looking to improve my practical knowledge.
+  The type of guy who learns a programming language just for fun.
+  Also: I like Python.
