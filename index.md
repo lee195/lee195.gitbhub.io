@@ -13,7 +13,9 @@ Feel free to visit my [Github profile page](https://github.com/lee195/), my [Cod
 Programming languages: Python, Scala, Golang, C++, Java  
 
 # Projects:
-- Hobby project: [FOOD](https://github.com/lee195/FOOD) Blockchain based Fair Object Ordering in Distributed systems. 
+- Hobby projects: 
+  1. [FOOD](https://github.com/lee195/FOOD) Blockchain based Fair Object Ordering in Distributed systems (Python). 
+  2. [Hangman](https://github.com/lee195/Hangman) Console Hangman game (Java).
 
 - University project: Event correlation system/library based on [CARTESIUS](http://www.st.informatik.tu-darmstadt.de/artifacts/corrl/cartesius_preprint.pdf) using Scala and [Scala Effekt](https://github.com/b-studios/scala-effekt)
 
