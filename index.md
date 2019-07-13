@@ -1,6 +1,6 @@
 # Welcome to my CV-page
 
-Graduate of TU Darmstadt (B.Sc.) and currently looking for a job.  
+Graduate of TU Darmstadt (B.Sc.) and currently working at //SEIBERT/MEDIA.
 
 ## Contact:    
   e-mail: [jisu_lee@hotmail.de](mailto:jisu_lee@hotmail.de)   
